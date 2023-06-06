@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499232028710",
+    "project_id": "imcc-e0d63",
+    "storage_bucket": "imcc-e0d63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499232028710:android:08a45d3f5d351071360ee7",
+        "android_client_info": {
+          "package_name": "com.alisson.imc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499232028710-7cpt87mhim6fo6obbmogoulpbbt8blnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBARxPK4Dby6Uvqr_Bd84BLlAFQHhEL-T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499232028710-7cpt87mhim6fo6obbmogoulpbbt8blnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
